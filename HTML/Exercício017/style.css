@@ -1,0 +1,38 @@
+* {
+    font-family: 'Work Sans', Tahoma, Geneva, Verdana, sans-serif;
+    /* 
+    Medidas absolutas
+    cm, mm, in, px, pt, pc
+
+
+    Medidas relativas 
+    em, ex, rem, vw, vh, % 
+    16px geralmente = 1em
+    */
+    font-size: 1em;
+
+    /* Exemplos de alterações nas letras */
+
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+
+    h1 {
+        /* font-family: 'Work Sans, sans-serif';
+        font-size: 2em;
+        font-style: italic;
+        font-weight: bolder;
+        text-decoration: underline;
+         shorthand font
+
+        - font-style -> font-weight -> font-size -> font-family */
+        font: italic bolder 2em 'Work Sans', sans-serif;
+    }
+
+    h2 {
+        font: italic 2em 'Work Sans', sans-serif;
+
+    }
+
+    
+}

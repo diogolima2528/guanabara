@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+
+
+body {
+    font-family: Helvetica, sans-serif;
+    background-color:rgba(247, 196, 129, 0.377)
+
+}
+
+p {
+    color: white;
+    font-size: 26px;
+
+}
+
+.titulo1 {
+    color: #ED174B;
+    text-align: center;
+    padding: 60px;
+    font-size: 60px;
+    text-decoration: underline;
+
+    
+    
+}
+
+h1:hover {
+    color: #006BB7;
+
+}
+
+h2 {
+    color: white;
+    text-decoration: underline;
+    font-size: 32px;
+
+
+}
+
+h2#topico1:hover {
+
+    color: #ED174B;
+
+}
+
+
+#topico1 {
+    background-color: #006BB7;
+    padding: 60px;
+    margin-bottom: 20px;
+
+}
+
+#topico2 {
+    background-color: #ED174B;
+    padding: 60px;
+    margin-bottom: 20px;
+
+}
+
+#lakers {
+    background-color: #542877;
+    padding: 60px;
+    margin-bottom: 20px;
+
+}
+
+h2#lakers:hover {
+    color: #FCB80F;
+
+}
+
+#celtics {
+    background-color: #008248;
+    padding: 60px;
+    margin-bottom: 20px;
+
+}
+
+h2#celtics:hover {
+    color: #BD9653;
+
+
+}

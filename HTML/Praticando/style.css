@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+
+* {
+    
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+body {
+    background-color: rgb(145, 145, 145);
+
+}
+
+main {
+    background-color: #ffffff;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 42px;
+    
+    
+
+
+
+}
+
+h2 {
+    text-align: center;
+    color: rgb(136, 50, 1);
+
+}
+
+h3 {
+    color: rgba(146, 54, 0, 0.801);
+    text-decoration: underline;
+
+}
+
+ul {
+    color: rgb(87, 87, 87);
+
+}
+
+h4 {
+    font-size: 18;
+    font-style: normal
+
+}
+
+div {
+    display: inline-block;
+}
